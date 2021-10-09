@@ -1,5 +1,5 @@
 {
-  "name": "hampel-filter",
+  "name": "@rnd-student-lab/hampel-filter",
   "version": "1.0.0",
   "description": "Hampel filter for removing outliers from time series data",
   "main": "./lib/index.js",
@@ -36,6 +36,9 @@
     "url": "https://github.com/rnd-student-lab/hampel-filter/issues"
   },
   "homepage": "https://github.com/rnd-student-lab/hampel-filter#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.1",
