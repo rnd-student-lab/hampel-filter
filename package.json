@@ -1,5 +1,5 @@
 {
-  "name": "@rnd-student-lab/hampel-filter",
+  "name": "hampel-filter",
   "version": "1.0.0",
   "description": "Hampel filter for removing outliers from time series data",
   "main": "./lib/index.js",

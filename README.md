@@ -65,7 +65,7 @@ If you don't provide an `options` object then the following defaults will be use
 Using npm:
 
 ```shell
-npm i -s @rnd-student-lab/hampel-filter
+npm i -s hampel-filter
 ```
 
 
